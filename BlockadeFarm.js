@@ -2,7 +2,7 @@
 // @name         BlockadeFarm
 // @namespace    https://github.com/onlypuppy7/
 // @version      1.0
-// @description  Intercept the skybox requests and add a download menu.
+// @description  Simplifies the process of extracting images from Blockadelabs skybox generator.
 // @author       onlypuppy7
 // @match        https://skybox.blockadelabs.com/*
 // @grant        none
