@@ -5,6 +5,7 @@
 // @description  Simplifies the process of extracting images from Blockadelabs skybox generator.
 // @author       onlypuppy7
 // @match        https://skybox.blockadelabs.com/*
+// @license      GPL-3.0
 // @grant        none
 // @run-at       document-body
 // ==/UserScript==
